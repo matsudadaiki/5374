@@ -1,12 +1,12 @@
 label,sublabel,description,styles,bgcolor
-廃食用油,,,img/moyasanai02.svg,#733b96
-処理困難（危険）物,,,img/moyasanai02.svg,#685ecf
-ガラス・せともの乾電池,,,img/shigen02.svg,#77ae1f
 可燃ごみ,,,img/moyasu02.svg,#ea3b13
 可燃性粗大ごみ,,,img/moyasu02.svg,#ff9137
 容器包装プラスチック,,,img/shigen02.svg,#77ae1f
 紙・布類,,,img/shigen02.svg,#bbe400
-金属類,,,img/shigen02.svg,#81d12e
 びん類,,,img/bin02.svg,#2dc7aa4
+金属類,,,img/shigen02.svg,#81d12e
 ペットボトル,,,img/bin02.svg,#91dde7
 アルミ缶,,,img/bin02.svg,#00b7c0
+廃食用油,,,img/moyasanai02.svg,#733b96
+処理困難（危険）物,,,img/moyasanai02.svg,#685ecf
+ガラス・せともの乾電池,,,img/shigen02.svg,#77ae1f
